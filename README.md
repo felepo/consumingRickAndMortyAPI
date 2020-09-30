@@ -1,4 +1,4 @@
-> ### Asyncronism on Javascript
+> ## Asynchronism on Javascript
 >
 > ###### Web exercise for working with asynchronism on Javascript using callbacks promises and async/await functions.
 >
